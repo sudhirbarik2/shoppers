@@ -1,0 +1,28 @@
+[
+    {
+        "orderId": "O-1001",
+        "totalPrice":0,
+        "orders": [
+            {
+                "address": "abc",
+                "addressType": "Work",
+                "color": "yellow",
+                "giftWrap": "true",
+                "pCategory": "Electronics",
+                "pDescription": "an economical phone by Asus",
+                "pName": "Asus Zenfone Max Pro M2",
+                "pid": "1001"
+            },
+            {
+                "address": "aaaa",
+                "addressType": "Home",
+                "color": "red",
+                "giftWrap": "true",
+                "pCategory": "Electronics",
+                "pDescription": "a prime phone by Moto",
+                "pName": "Moto G7 Plus",
+                "pid": "1003"
+            }
+        ]
+    }
+]
